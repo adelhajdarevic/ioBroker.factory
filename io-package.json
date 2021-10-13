@@ -1,17 +1,17 @@
 {
    "common":{
       "name":"factory",
-      "version":"1.0.2",
+      "version":"1.0.3",
       "news":{
-         "1.0.2":{
-            "en":"Factory adapter",
-            "de":"Factory adapter"
+         "1.0.3":{
+            "en":"factory adapter",
+            "de":"factory adapter"
          }
       },
       "title":"factory",
       "titleLang":{
-         "en":"Factory ioBroker adapter",
-         "de":"Factory ioBroker Adapter"
+         "en":"factory ioBroker adapter",
+         "de":"factory ioBroker Adapter"
       },
       "desc":{
          "en":"Connects Smart Factory",
@@ -39,8 +39,8 @@
       "adminTab":{
          "singleton":true,
          "name":{
-            "en":"Factory",
-            "de":"Factory"
+            "en":"factory",
+            "de":"factory"
          },
          "link":"",
          "fa-icon":"info"
