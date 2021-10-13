@@ -1,32 +1,27 @@
 {
    "common":{
       "name":"Factory",
-      "version":"1.0.0",
+      "version":"1.0.1",
       "news":{
-         "1.0.0":{
+         "1.0.1":{
             "en":"Factory adapter",
             "de":"Factory adapter"
          }
       },
-      "title":"DMXfaceXP",
+      "title":"Factory",
       "titleLang":{
-         "en":"DMXfaceXP ioBroker adapter",
-         "de":"DMXfaceXP ioBroker Adapter"
+         "en":"Factory ioBroker adapter",
+         "de":"Factory ioBroker Adapter"
       },
       "desc":{
-         "en":"Connects DMXfaceXP by ACTIVE SEND protocoll",
-         "de":"Verbindet das DMXfaceXP über das ACTICE SEND Protokoll"
+         "en":"Connects Factory by ACTIVE SEND protocoll",
+         "de":"Verbindet das Factory über das ACTICE SEND Protokoll"
       },
       "authors":[
-         "Author <mail@dmxface.at>"
+         "Author <hajdarevic_adel@hotmail.com>"
       ],
       "keywords":[
-         "ioBroker",
-         "dmxface",
-         "DMXfaceXP",
-         "Media controller",
-         "Smart Home",
-         "home automation"
+         "ioBroker"
       ],
       "license":"MIT",
       "platform":"Javascript/Node.js",
@@ -44,10 +39,10 @@
       "adminTab":{
          "singleton":true,
          "name":{
-            "en":"DMXfaceXP",
-            "de":"DMXfaceXP"
+            "en":"Factory",
+            "de":"Factory"
          },
-         "link":"www.dmxface.at",
+         "link":"",
          "fa-icon":"info"
       },
       "supportCustoms":true,

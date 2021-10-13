@@ -1,16 +1,16 @@
 {
    "name":"iobroker.factory",
-   "version":"1.0.0",
+   "version":"1.0.1",
    "description":"ioBroker Factory",
    "author":{
-      "name":"Hufnagl Oliver",
-      "email":"mail@dmxface.at"
+      "name":"Adel Hajdarevic",
+      "email":"hajdarevic_adel@hotmail.com"
    },
    "homepage":"https://github.com/adelhajdarevic/ioBroker.factory.git",
    "license":"MIT",
    "keywords":[
       "ioBroker",
-      "dmxface",
+      "factory",
       "DMXfaceXP",
       "Media controller",
       "Smart Home",
