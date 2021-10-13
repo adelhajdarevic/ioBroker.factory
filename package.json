@@ -1,0 +1,37 @@
+{
+   "name":"iobroker.dmxface",
+   "version":"1.0.0",
+   "description":"ioBroker Factory",
+   "author":{
+      "name":"Hufnagl Oliver",
+      "email":"mail@dmxface.at"
+   },
+   "homepage":"https://github.com/adelhajdarevic/ioBroker.Factory.git",
+   "license":"MIT",
+   "keywords":[
+      "ioBroker",
+      "dmxface",
+      "DMXfaceXP",
+      "Media controller",
+      "Smart Home",
+      "home automation"
+   ],
+   "repository":{
+      "type":"git",
+      "url":"https://github.com/adelhajdarevic/ioBroker.Factory.git"
+   },
+   "dependencies":{
+      "@iobroker/adapter-core":"^1.0.3"
+   },
+   "devDependencies":{
+
+   },
+   "main":"main.js",
+   "scripts":{
+
+   },
+   "bugs":{
+      "url":"https://github.com/adelhajdarevic/ioBroker.Factory/issues"
+   },
+   "readmeFilename":"README.md"
+}
