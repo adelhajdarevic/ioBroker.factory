@@ -1,6 +1,6 @@
 {
    "common":{
-      "name":"Factory",
+      "name":"factory",
       "version":"1.0.1",
       "news":{
          "1.0.1":{
@@ -8,7 +8,7 @@
             "de":"Factory adapter"
          }
       },
-      "title":"Factory",
+      "title":"factory",
       "titleLang":{
          "en":"Factory ioBroker adapter",
          "de":"Factory ioBroker Adapter"
