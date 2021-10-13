@@ -1,0 +1,67 @@
+{
+   "common":{
+      "name":"factory",
+      "version":"1.0.2",
+      "news":{
+         "1.0.2":{
+            "en":"Factory adapter",
+            "de":"Factory adapter"
+         }
+      },
+      "title":"factory",
+      "titleLang":{
+         "en":"Factory ioBroker adapter",
+         "de":"Factory ioBroker Adapter"
+      },
+      "desc":{
+         "en":"Connects Smart Factory",
+         "de":"Verbindet die Smart Factory"
+      },
+      "authors":[
+         "Author <hajdarevic_adel@hotmail.com>"
+      ],
+      "keywords":[
+         "ioBroker"
+      ],
+      "license":"MIT",
+      "platform":"Javascript/Node.js",
+      "main":"main.js",
+      "icon":"dmxface.png",
+      "enabled":true,
+      "extIcon":"https://raw.githubusercontent.com/adelhajdarevic/ioBroker.factory/master/admin/dmxface.png",
+      "readme":"https://github.com/adelhajdarevic/ioBroker.factory/blob/master/README.md",
+      "loglevel":"info",
+      "mode":"daemon",
+      "type":"general",
+      "compact":true,
+      "materialize":true,
+      "materializeTab":true,
+      "adminTab":{
+         "singleton":true,
+         "name":{
+            "en":"Factory",
+            "de":"Factory"
+         },
+         "link":"",
+         "fa-icon":"info"
+      },
+      "supportCustoms":true,
+      "dependencies":[
+         {
+            "js-controller":">=1.4.2"
+         }
+      ]
+   },
+   "native":{
+      "ipaddress":"0.0.0.0",
+      "port":"6000",
+      "requesttiming":"1000",
+      "lastdmxchannel":"0"
+   },
+   "objects":[
+
+   ],
+   "instanceObjects":[
+
+   ]
+}
