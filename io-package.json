@@ -14,8 +14,8 @@
          "de":"Factory ioBroker Adapter"
       },
       "desc":{
-         "en":"Connects Factory by ACTIVE SEND protocoll",
-         "de":"Verbindet das Factory über das ACTICE SEND Protokoll"
+         "en":"Connects Smart Factory",
+         "de":"Verbindet die Smart Factory"
       },
       "authors":[
          "Author <hajdarevic_adel@hotmail.com>"
