@@ -1,12 +1,12 @@
 {
-   "name":"iobroker.dmxface",
+   "name":"iobroker.factory",
    "version":"1.0.0",
    "description":"ioBroker Factory",
    "author":{
       "name":"Hufnagl Oliver",
       "email":"mail@dmxface.at"
    },
-   "homepage":"https://github.com/adelhajdarevic/ioBroker.Factory.git",
+   "homepage":"https://github.com/adelhajdarevic/ioBroker.factory.git",
    "license":"MIT",
    "keywords":[
       "ioBroker",
@@ -18,7 +18,7 @@
    ],
    "repository":{
       "type":"git",
-      "url":"https://github.com/adelhajdarevic/ioBroker.Factory.git"
+      "url":"https://github.com/adelhajdarevic/ioBroker.factory.git"
    },
    "dependencies":{
       "@iobroker/adapter-core":"^1.0.3"
@@ -31,7 +31,7 @@
 
    },
    "bugs":{
-      "url":"https://github.com/adelhajdarevic/ioBroker.Factory/issues"
+      "url":"https://github.com/adelhajdarevic/ioBroker.factory/issues"
    },
    "readmeFilename":"README.md"
 }
